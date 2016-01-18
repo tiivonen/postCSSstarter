@@ -43,3 +43,8 @@ footer {
   flex-basis: 0;
   order: 1;
 }
+
+p {
+    font-size: 3em;
+    color: white;
+}

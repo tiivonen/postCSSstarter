@@ -1,3 +1,5 @@
+### Ignore compiled HTML folder
+html
 
 # Created by https://www.gitignore.io/api/osx,node
 
